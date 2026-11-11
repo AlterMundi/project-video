@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Video"
+  short_description: "Create source-grounded project demos and stories"
+  default_prompt: "Use $project-video to turn the selected project material into a clear video with a poster, credits, and editable source."

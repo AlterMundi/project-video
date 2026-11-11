@@ -1,0 +1,30 @@
+{
+  "example_only": true,
+  "project": "Fictional sensor notebook",
+  "revision": "example-1",
+  "viewer": "Community workshop participants",
+  "purpose": "Show how a selected measurement becomes a readable graph",
+  "duration_seconds": 24,
+  "format": "vertical",
+  "audience": "draft review",
+  "central_message": "See the measurement while you make it",
+  "visual_direction": "Use the notebook's own paper texture, ink typography and graph colors",
+  "sources": [
+    {
+      "id": "capture-1",
+      "locator": "Use the actual selected clip locator here",
+      "kind": "original-capture",
+      "review_state": "missing; this example is not usable evidence",
+      "permitted_audience": "unresolved"
+    }
+  ],
+  "scenes": [
+    {"start": 0, "end": 3, "purpose": "Payoff", "visual": "Actual graph reacting", "text": "See each measurement", "source_ids": ["capture-1"]},
+    {"start": 3, "end": 9, "purpose": "Action", "visual": "Actual sensor action and corresponding reading", "text": "Move. Measure.", "source_ids": ["capture-1"]},
+    {"start": 9, "end": 18, "purpose": "Result", "visual": "Readable graph detail; preserve the original relationship in time", "text": "Follow the change", "source_ids": ["capture-1"]},
+    {"start": 18, "end": 24, "purpose": "Next action", "visual": "Project identity and selected workshop link", "text": "Make your own notebook", "source_ids": []}
+  ],
+  "audio": {"narration": false, "direction": "Use original experiment sound if it conveys the result; otherwise a restrained licensed bed"},
+  "credits": "Fill from actual participants and selected asset licenses",
+  "readiness": "Example storyboard only; original capture and audience must be resolved before production"
+}

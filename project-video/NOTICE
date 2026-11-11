@@ -1,0 +1,6 @@
+project-video is an original project-video workflow developed with human
+feedback and comparisons with Brag (https://github.com/latent-spaces/brag).
+Brag and Hyperframes are external projects, not bundled dependencies. No
+upstream engine, music, sound effects, font binaries or private project material
+is distributed in this package. A generated video's assets retain their own
+licenses and audience; this package's MIT license does not relicense them.
